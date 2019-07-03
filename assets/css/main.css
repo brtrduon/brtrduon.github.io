@@ -33,7 +33,7 @@ body {
 	line-height: 1;
 }
 
-ol, ul {
+ol, ul, li {
 	list-style: none;
 }
 
@@ -3005,7 +3005,7 @@ input, select, textarea {
 			}
 
 			#header .actions:after {
-				background: #ffffff;
+				/* background: #ffffff; */
 				content: '';
 				height: 100vh;
 				left: 50%;

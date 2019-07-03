@@ -2889,11 +2889,10 @@ input, select, textarea {
 
 	#header {
 		height: 100vh;
-		padding: 11em 0 ;
+		padding: 11em 0;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed, fixed, fixed;
-		/* background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(30deg, rgb(146, 184, 244) 5%, rgb(85, 133, 209) 30%, rgb(80, 186, 131)); */
 		background-image: linear-gradient(30deg, black 5%, rgb(85, 133, 209) 28%, rgb(80, 186, 131));
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
@@ -3086,11 +3085,11 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		padding: 6em 0 6em 0 ;
+		padding: 2em 0;
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
+		background-image: linear-gradient(30deg, black 5%, rgb(85, 133, 209) 28%, rgb(80, 186, 131));
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
